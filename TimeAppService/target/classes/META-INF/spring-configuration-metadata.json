@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.auth.converter",
+      "type": "com.microservice.TimeSheetService.config.JwtAuthConverterProperties",
+      "sourceType": "com.microservice.TimeSheetService.config.JwtAuthConverterProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.auth.converter.principal-attribute",
+      "type": "java.lang.String",
+      "sourceType": "com.microservice.TimeSheetService.config.JwtAuthConverterProperties"
+    },
+    {
+      "name": "jwt.auth.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "com.microservice.TimeSheetService.config.JwtAuthConverterProperties"
+    }
+  ],
+  "hints": []
+}
